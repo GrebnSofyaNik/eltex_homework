@@ -1,3 +1,3 @@
 # eltex_homework
 домашка по курсу eltex embedded Linux
-![alt text](../../Downloads/kurva.jpg)
+![alt text](kurva-1.jpg)
