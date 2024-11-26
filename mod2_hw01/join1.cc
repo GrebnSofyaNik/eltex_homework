@@ -15,8 +15,6 @@ int main() {
     }
 
     long long result = (long long)pow(BASE, Number);
-
     printf("2 в степени %d равно %lld\n", Number, result);
-
     return 0;
 }
